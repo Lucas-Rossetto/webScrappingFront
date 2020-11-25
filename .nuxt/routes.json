@@ -1,0 +1,23 @@
+[
+  {
+    "name": "data-dataFranceGeoJSON",
+    "path": "/data/dataFranceGeoJSON",
+    "component": "C:\\\\Users\\\\Lucas\\\\Desktop\\\\webScrappingProjectFront\\\\pages\\\\data\\\\dataFranceGeoJSON.js",
+    "chunkName": "pages/data/dataFranceGeoJSON",
+    "_name": "_48747e67"
+  },
+  {
+    "name": "data-test",
+    "path": "/data/test",
+    "component": "C:\\\\Users\\\\Lucas\\\\Desktop\\\\webScrappingProjectFront\\\\pages\\\\data\\\\test.js",
+    "chunkName": "pages/data/test",
+    "_name": "_62f685be"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Lucas\\\\Desktop\\\\webScrappingProjectFront\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1ca24b60"
+  }
+]

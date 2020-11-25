@@ -1,0 +1,17 @@
+{
+  "name": "web-scrapping-project-front",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "leaflet": "^1.7.1",
+    "nuxt": "^2.14.7",
+    "nuxt-leaflet": "0.0.22",
+    "vue-choropleth": "^0.3.1",
+    "vue2-leaflet": "^2.6.0"
+  }
+}
