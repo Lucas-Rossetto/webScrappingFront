@@ -8,3 +8,5 @@
 $ npm install
 $ npm run dev
 ```
+
+- Now watch into the url at localhost:3000
